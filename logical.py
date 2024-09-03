@@ -7,4 +7,4 @@ a //= 5
 print(f"a//=5 -> {a}")
 a **= 5
 print(f"a**=5 -> {a}")
-print("This program is written by Sachin erp-025")
+print("This program is written by KRITIKA erp-025")
