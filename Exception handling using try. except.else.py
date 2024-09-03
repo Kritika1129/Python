@@ -7,4 +7,4 @@ except ValueError:
     print("Error: Invalid input, please enter a valid number")
 else:
     print("The result is:", result)
-print("This program is written by KRITIKA ERP-076")
+print("This program is written by KRITIKA ERP-067")
