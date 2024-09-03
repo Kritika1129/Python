@@ -5,6 +5,6 @@ try:
         print("error,cannot divide by zero")
     except ValueError:
         print("error:invalid input,please enter a valid input")
-print("this program is written by KRITIKA ERP-076")
+print("this program is written by KRITIKA ERP-067")
 
         
