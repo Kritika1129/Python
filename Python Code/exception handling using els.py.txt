@@ -1,0 +1,9 @@
+try:
+    number = int(input("enter a numnber"))
+    result = 10 / number
+except ZeroDivisionError:
+    print("error")
+except ValueError:
+    print("invalid input")
+else:
+    print("thr result is {result}")
