@@ -1,0 +1,5 @@
+# main.py
+from math_utils import *
+result = subtract(10, 5)
+print(result)
+print("This program is written by KRITIKA ERP-067")
